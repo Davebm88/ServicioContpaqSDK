@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15, 24.25" name="Taguesi">
+  <DataContextMoniker Name="/TaguesiDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ebc072c1-ac30-4c23-bf03-978e4580c1f8" absoluteBounds="9.75, 3.375, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/TaguesiDataContext/Polizas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="384eb406-3dce-41a7-ae06-4f18d298898e" absoluteBounds="9.765, 3.835, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="34af4d39-fad7-400e-b9bd-e90ccde1de49" absoluteBounds="3.75, 5.25, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/TaguesiDataContext/ProveedoresPagos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c4bb976-3fdc-47e4-b2ba-b95bd2e70ef9" absoluteBounds="3.765, 5.71, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a57d27db-4783-453f-b599-edafa0ae9e30" absoluteBounds="6.5, 5.375, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/TaguesiDataContext/ProveedoresPagosDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb7ecd63-1113-4acb-a54b-22bce3a33cfb" absoluteBounds="6.515, 5.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a904463-2212-4992-8591-ec3dc8df91cd" absoluteBounds="3.5, 17.25, 2, 6.7707340494791666">
+      <DataClassMoniker Name="/TaguesiDataContext/NotasCredito" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e383b9d-1d26-45e0-bfe8-1e8346b74aae" absoluteBounds="3.515, 17.71, 1.9700000000000002, 6.2107340494791661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4d7488ed-b5a9-45bd-a217-241f21e503b6" absoluteBounds="6.25, 14.5, 2, 3.1170068359374987">
+      <DataClassMoniker Name="/TaguesiDataContext/NotasCreditoDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a567c7ed-8476-461c-91ff-e34538005456" absoluteBounds="6.265, 14.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2951eac2-f6dc-4e35-a1d7-aedbd81ad61f" absoluteBounds="1, 0.75, 2, 4.2708154296875">
+      <DataClassMoniker Name="/TaguesiDataContext/DocEntradasPT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d4a7132-6487-4654-bccc-b54ee1483277" absoluteBounds="1.0150000000000001, 1.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78554fa3-f2dd-4832-8f99-370e4c3806a9" absoluteBounds="3.75, 1.125, 2, 3.1170068359375009">
+      <DataClassMoniker Name="/TaguesiDataContext/DocEntradasPTDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c50d39f2-2513-492f-90bf-b37fdbc35b5a" absoluteBounds="3.765, 1.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c6ca39a-44ef-4816-a8e2-d533b8665b24" absoluteBounds="0.75, 6.125, 2, 11.193666992187499">
+      <DataClassMoniker Name="/TaguesiDataContext/DocSalidasPT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b878362d-499f-47a2-a3f7-7cdc36f6b481" absoluteBounds="0.765, 6.585, 1.9700000000000002, 10.6336669921875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2f2f15d7-5e97-4f58-a422-df83c1a9a73a" absoluteBounds="6.5, 9.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/TaguesiDataContext/DocSalidasPTDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8931d46e-22b2-426b-8bd7-77f56d275b03" absoluteBounds="6.515, 10.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4e8f76f-3be4-4357-be58-6fa4f93dcac0" absoluteBounds="0.75, 18.25, 2, 5.0400211588541666">
+      <DataClassMoniker Name="/TaguesiDataContext/ClientesPagos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c95c6b4-2f03-4bb7-a88f-fbf045d52664" absoluteBounds="0.765, 18.71, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef67faed-785b-45f8-b0be-a9645d2a92fd" absoluteBounds="3.5, 10, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/TaguesiDataContext/ClientesPagosDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="68613aeb-0357-44c6-8f96-b119935172f0" absoluteBounds="3.515, 10.46, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 6.83735270182292); (6.04166666666667 : 6.83735270182292 : JumpStart); (6.20833333333333 : 6.83735270182292 : JumpEnd); (6.5 : 6.83735270182292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/ProveedoresPagos/ProveedoresPagos_ProveedoresPagosDetalle" />
+      <nodes>
+        <classShapeMoniker Id="34af4d39-fad7-400e-b9bd-e90ccde1de49" />
+        <classShapeMoniker Id="a57d27db-4783-453f-b599-edafa0ae9e30" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 20.8188709427083); (7.25 : 20.8188709427083); (7.25 : 17.6170068359375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/NotasCredito/NotasCredito_NotasCreditoDetalle" />
+      <nodes>
+        <classShapeMoniker Id="5a904463-2212-4992-8591-ec3dc8df91cd" />
+        <classShapeMoniker Id="4d7488ed-b5a9-45bd-a217-241f21e503b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 2.68350341796875); (3.75 : 2.68350341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaguesiDataContext/DocEntradasPT/DocEntradasPT_DocEntradasPTDetalle" />
+      <nodes>
+        <classShapeMoniker Id="2951eac2-f6dc-4e35-a1d7-aedbd81ad61f" />
+        <classShapeMoniker Id="78554fa3-f2dd-4832-8f99-370e4c3806a9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 17.317127530649); (3.125 : 17.692127530649); (3.125 : 16.875); (3.25357443490112 : 17.0035744349011 : JumpStart); (3.37142556509888 : 17.1214255650989 : JumpEnd); (3.5 : 17.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocSalidasPT/DocSalidasPT_NotasCredito" />
+      <nodes>
+        <classShapeMoniker Id="1c6ca39a-44ef-4816-a8e2-d533b8665b24" />
+        <classShapeMoniker Id="5a904463-2212-4992-8591-ec3dc8df91cd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 15.84375); (6.25 : 15.84375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocSalidasPT/DocSalidasPT_NotasCreditoDetalle" />
+      <nodes>
+        <classShapeMoniker Id="1c6ca39a-44ef-4816-a8e2-d533b8665b24" />
+        <classShapeMoniker Id="4d7488ed-b5a9-45bd-a217-241f21e503b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 4.2420068359375); (6.125 : 4.6170068359375); (6.125 : 11.6931062825521); (6.5 : 11.6931062825521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocEntradasPTDetalle/DocEntradasPTDetalle_DocSalidasPTDetalle" />
+      <nodes>
+        <classShapeMoniker Id="78554fa3-f2dd-4832-8f99-370e4c3806a9" />
+        <classShapeMoniker Id="2f2f15d7-5e97-4f58-a422-df83c1a9a73a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.84375); (6.04166666666667 : 9.84375 : JumpStart); (6.20833333333333 : 9.84375 : JumpEnd); (6.5 : 9.84375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocSalidasPT/DocSalidasPT_DocSalidasPTDetalle" />
+      <nodes>
+        <classShapeMoniker Id="1c6ca39a-44ef-4816-a8e2-d533b8665b24" />
+        <classShapeMoniker Id="2f2f15d7-5e97-4f58-a422-df83c1a9a73a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.20923076923077 : 13.6362125651042); (7.20923076923077 : 13.8862125651042); (7.80461538461539 : 13.8862125651042); (7.80461538461539 : 13.6362125651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocSalidasPTDetalle/DocSalidasPTDetalle_DocSalidasPTDetalle" />
+      <nodes>
+        <classShapeMoniker Id="2f2f15d7-5e97-4f58-a422-df83c1a9a73a" />
+        <classShapeMoniker Id="2f2f15d7-5e97-4f58-a422-df83c1a9a73a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 18.3115374615385); (3.3125 : 17.7490374615385); (3.3125 : 11.7508048502604); (3.5 : 11.7508048502604)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/ClientesPagos/ClientesPagos_ClientesPagosDetalle" />
+      <nodes>
+        <classShapeMoniker Id="b4e8f76f-3be4-4357-be58-6fa4f93dcac0" />
+        <classShapeMoniker Id="ef67faed-785b-45f8-b0be-a9645d2a92fd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.8129024251302); (3.5 : 10.8129024251302)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TaguesiDataContext/DocSalidasPT/DocSalidasPT_ClientesPagosDetalle" />
+      <nodes>
+        <classShapeMoniker Id="1c6ca39a-44ef-4816-a8e2-d533b8665b24" />
+        <classShapeMoniker Id="ef67faed-785b-45f8-b0be-a9645d2a92fd" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="058faca9-7552-4254-80ed-2567ba9dd097" absoluteBounds="7.5, 0.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TaguesiDataContext/PolizasAdmin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62ffa863-68b8-4cf8-8637-fae70befdb1d" absoluteBounds="7.515, 1.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74964518-f56f-4ac7-8903-917b03441b14" absoluteBounds="12.75, 3.5, 2, 3.1170068359375">
+      <DataClassMoniker Name="/TaguesiDataContext/PolizasDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1e0148ed-5399-45ce-90e3-0f71dea1ad6d" absoluteBounds="12.765, 3.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11.75 : 5.05850341796875); (12.75 : 5.05850341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TaguesiDataContext/Polizas/Polizas_PolizasDetalle" />
+      <nodes>
+        <classShapeMoniker Id="ebc072c1-ac30-4c23-bf03-978e4580c1f8" />
+        <classShapeMoniker Id="74964518-f56f-4ac7-8903-917b03441b14" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
